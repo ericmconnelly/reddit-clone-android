@@ -1,1 +1,1 @@
-# reddit-clone-android
+Reddit Clone Android App
